@@ -22,9 +22,10 @@ Execute the program.
 
 ## Program:
 (i) To find the L and U matrix
- '''Program to find L and U matrix using LU decomposition.
-    Developed by: JANARTHANAN B
-    RegisterNumber: 212223100014
+
+   '''Program to find L and U matrix using LU decomposition.
+      Developed by: JANARTHANAN B
+      RegisterNumber: 212223100014
 '''
      import numpy as np
      from scipy.linalg import lu
@@ -34,10 +35,11 @@ Execute the program.
      print(u_matrix)
      
 (ii) To find the LU Decomposition of a matrix
-  '''Program to solve a matrix using LU decomposition.
-     Developed by: JANARTHANAN B
-     RegisterNumber: 212223100014
-  '''
+
+   '''Program to solve a matrix using LU decomposition.
+      Developed by: JANARTHANAN B
+      RegisterNumber: 212223100014
+   '''
      import numpy as np
      from scipy.linalg import lu_factor,lu_solve
      a=eval(input())
