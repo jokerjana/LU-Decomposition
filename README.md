@@ -24,9 +24,12 @@ Execute the program.
 (i) To find the L and U matrix
 
    '''Program to find L and U matrix using LU decomposition.
+     
       Developed by: JANARTHANAN B
+      
       RegisterNumber: 212223100014
 '''
+    
      import numpy as np
      from scipy.linalg import lu
      matrix=np.array(eval(input()))
