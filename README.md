@@ -24,6 +24,7 @@ Execute the program.
 (i) To find the L and U matrix
 
    '''
+   
       Program to find L and U matrix using LU decomposition.
       
       Developed by: JANARTHANAN B
@@ -41,10 +42,9 @@ Execute the program.
 (ii) To find the LU Decomposition of a matrix
 
    '''
+   
       Program to solve a matrix using LU decomposition.
-      
       Developed by: JANARTHANAN B
-      
       RegisterNumber: 212223100014
    '''
    
